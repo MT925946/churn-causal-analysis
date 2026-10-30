@@ -218,3 +218,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# 原始数据集
+data/raw/*.csv
+# 缓存、检查点文件
+.ipynb_checkpoints/
+__pycache__/
+*.pkl
+.vscode/
