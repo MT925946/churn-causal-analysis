@@ -1,0 +1,33 @@
+﻿feature,coef
+charge_ratio,1.3298461111152362
+InternetService_Fiber optic,0.9393164279672079
+MultipleLines_Yes,0.40009009222578185
+PaperlessBilling,0.3780130469222117
+PaymentMethod_Electronic check,0.3290159648829674
+StreamingTV_Yes,0.32618842211864896
+StreamingMovies_Yes,0.3258597112259067
+SeniorCitizen,0.1482224462450431
+Partner,0.056659271669947844
+DeviceProtection_Yes,0.03852404831727489
+gender,0.016730914269149084
+avg_monthly_spend,0.0033095515607062392
+TotalCharges,-0.00015974767379495816
+PaymentMethod_Mailed check,-0.002610645094039336
+PaymentMethod_Credit card (automatic),-0.03383572854262218
+OnlineSecurity_No internet service,-0.11820419709641285
+StreamingTV_No internet service,-0.11820419709641285
+StreamingMovies_No internet service,-0.11820419709641285
+TechSupport_No internet service,-0.11820419709641285
+DeviceProtection_No internet service,-0.11820419709641285
+InternetService_No,-0.11820419709641285
+OnlineBackup_No internet service,-0.11820419709641285
+OnlineBackup_Yes,-0.13069333344752865
+MultipleLines_No phone service,-0.15106231760693478
+Dependents,-0.2127109100871505
+user_life_stage_mid_user,-0.25443229715211424
+TechSupport_Yes,-0.2825050687388747
+OnlineSecurity_Yes,-0.3511001681413425
+user_life_stage_long_user,-0.5542688323572619
+PhoneService,-0.6440866342575304
+Contract_One year,-0.7337160342432355
+Contract_Two year,-1.6175385494720722
